@@ -1,5 +1,8 @@
-pandas
-plotly
 dash
-voila
+pandas
 numpy
+plotly
+geopandas
+pycountry
+Pillow
+circlify
