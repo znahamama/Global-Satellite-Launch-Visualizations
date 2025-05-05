@@ -8,6 +8,8 @@ This project visualizes global satellite launch activity from 1957 to 2023 using
 
 ## Key Visuals
 
+https://mybinder.org/v2/gh/znahamama/Global-Satellite-Launch-Visualizations/HEAD?urlpath=voila/render/Dashboard.ipynb
+
 ### Choropleth Map – Launches by Country
 <img width="909" alt="Screenshot 2025-05-02 at 7 52 30 PM" src="https://github.com/user-attachments/assets/e3366040-02c4-4d42-a438-0fc7182a92c8" />
 
