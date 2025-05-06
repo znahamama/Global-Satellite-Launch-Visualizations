@@ -77,7 +77,7 @@ This project visualizes global satellite launch activity from 1957 to 2023 using
    
 2. **Install dependencies**
    ```bash
-   pip install pandas matplotlib geopandas
+   pip install pandas matplotlib geopandas plotly dash pycountry circlify pillow
    '''
 
 3. **Launch Jupyter**
