@@ -73,17 +73,17 @@ This project visualizes global satellite launch activity from 1957 to 2023 using
    ```bash
    git clone https://github.com/znahamama/Global-Satellite-Launch-Visualizations.git
    cd Global-Satellite-Launch-Visualizations
-   '''
+   ```
    
 2. **Install dependencies**
    ```bash
    pip install pandas matplotlib geopandas plotly dash pycountry circlify pillow
-   '''
+   ```
 
 3. **Launch Jupyter**
    ```bash
    jupyter notebook
-   '''
+   ```
 
 4. **Open:**
    - `Dashboard.ipynb` to explore the data interactively  
